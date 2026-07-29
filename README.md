@@ -1,4 +1,5 @@
-# TheKillingAntidote — internal DLL (ImGui + DX11)
+# WIP
+## TheKillingAntidote — internal DLL (ImGui + DX11)
 
 Full rewrite of the base template for **The Killing Antidote** (UE4 4.27.2 build `+++UE4+Release-4.27`).
 All offsets, class layouts and UFunction names come from a Dumper-7 SDK dump of the shipping build.
